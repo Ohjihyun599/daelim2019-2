@@ -1,2 +1,9 @@
-# 오지현 : daelim
-9월 20일 : 인라인 박스, 메뉴, 기본구조 학습.
+# 오지현 : daelim2019-2 project
+## 2019.9.20 
+#### index.html / main.css 생성
+> 1. 주석 추가
+> 2. 기본구조 삽입
+> 3. css 적용
+> 4. css 초기화 ( v0.1.0 )
+> 5. 메뉴 생성 ( v0.2.0 )
+> 6. 1st article : margin, padding, border test ( v0.3.0 )
