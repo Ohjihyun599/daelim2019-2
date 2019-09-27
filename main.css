@@ -100,3 +100,9 @@ h3 {
     margin: 15px;
     width: 200px;
 }
+
+.half {
+    background-color: rgb(138, 43, 226);
+    padding: 10px;
+    height: 60%;
+}
