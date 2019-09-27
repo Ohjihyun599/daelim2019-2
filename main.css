@@ -2,7 +2,7 @@
 ul {
     width: 800px;
     height: 60px;
-    background: rgb(108, 152, 219);
+    background-color: rgb(108, 152, 219);
     list-style:none;
     padding-top: 15px;
 }
@@ -17,6 +17,7 @@ ul li a {
     font-size: 30px;
     color: white;
     text-decoration: none;
+    text-align: center;
 }
 
 .article-bg {
