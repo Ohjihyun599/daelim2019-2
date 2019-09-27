@@ -1,0 +1,90 @@
+/* v0.2.0 */
+ul {
+    width: 800px;
+    height: 60px;
+    background: rgb(108, 152, 219);
+    list-style:none;
+    padding-top: 15px;
+}
+
+ul li {
+    float: left;
+    margin-right: 10px;
+}
+
+ul li a {
+    margin-right: 20px;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.article-bg {
+    background-color: rgb(172, 172, 240);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 300px;
+    padding: 15px;
+}
+
+.article-2nd-bg {
+    background-color: rgb(127, 255, 212);
+}
+
+section div {
+    width: 50px;
+    height: 50px;
+    background: rgb(82, 219, 212);
+    padding: 50px;
+    border: 3px;
+    display: inline;
+}
+
+/* v0.1.0 */
+h1 {
+    color:black;
+    font-size: 20pt;
+}
+
+h3 {
+    color: black;
+    font-size: 20pt;
+}
+
+.box-test {
+    background: rgb(241, 177, 222);
+    border: 10px solid rgb(235, 68, 132);
+    margin: 10px;
+    padding: 10px;
+    width: 15%;
+    height: 40%;
+    display: inline-block;
+}
+
+.image-cropper-50 {
+    height: 200px;
+    margin: 15px;
+    width: 200px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.image-cropper-25 {
+    height: 200px;
+    margin: 15px;
+    width: 200px;
+    -webkit-border-radius: 25%;
+    -moz-border-radius: 25%;
+    -ms-border-radius: 25%;
+    -o-border-radius: 25%;
+    border-radius: 25%;
+}
+
+.image-cropper-5 {
+    height: 200px;
+    margin: 15px;
+    width: 200px;
+}
