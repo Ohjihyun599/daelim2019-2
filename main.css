@@ -113,6 +113,12 @@ h3 {
     height: 60%;
 }
 
+.grid1 {
+    float: left;
+    width: 30px;
+    padding: 50px;
+}
+
 .grid2 {
     background-color: rgb(241, 93, 7);
     display: grid;
