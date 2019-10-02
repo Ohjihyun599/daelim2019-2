@@ -124,14 +124,18 @@ h3 {
     height: 300px;
 }
 
-.div#left {
+.left {
     background-color: blue;
     float: left;
+    width: 250px;
+    height: 300px;
 }
 
-.div#right {
+.right {
     background-color: rgb(2, 107, 2);
     float: right;
+    width: 250px;
+    height: 300px;
 }
 
 .grid2 {
