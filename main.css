@@ -107,7 +107,7 @@ h3 {
     width: 200px;
 }
 
-.half {
+.sample {
     background-color: rgb(138, 43, 226);
     padding: 10px;
     height: 60%;
@@ -117,6 +117,16 @@ h3 {
     float: left;
     width: 30px;
     padding: 50px;
+}
+
+.section-left {
+    background-color: rgb(6, 6, 233);
+    float: left;
+}
+
+.section-right {
+    background-color: rgb(2, 107, 2);
+    float: right;
 }
 
 .grid2 {
