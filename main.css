@@ -12,6 +12,7 @@ ul {
     background-color: rgb(108, 152, 219);
     list-style:none;
     padding-top: 15px;
+    font-family: 'Slabo 27px', serif;
 }
 
 ul li {
