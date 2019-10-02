@@ -127,15 +127,19 @@ h3 {
 .left {
     background-color: blue;
     float: left;
-    width: 950px;
-    height: 300px;
+    width: 950px; 
+    height: 300px; 
+    border: 1px;
+    color: rgb(253, 253, 253);
 }
 
 .right {
     background-color: rgb(2, 107, 2);
     float: right;
-    width: 950px;
-    height: 300px;
+    width: 950px; 
+    height: 300px; 
+    border: 1px;
+    color: rgb(253, 253, 253);
 }
 
 .grid2 {
@@ -176,4 +180,5 @@ h3 {
     font-family: 'Slabo 27px', serif;
     padding: 10px;
     height: 100px;
+    color: rgb(253, 253, 253);
 }
