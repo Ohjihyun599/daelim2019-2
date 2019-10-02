@@ -120,21 +120,21 @@ h3 {
 .grid1 {
     display: flex;
     text-align: center;
-    width: 1300px;
+    width: 1900px;
     height: 300px;
 }
 
 .left {
     background-color: blue;
     float: left;
-    width: 650px;
+    width: 950px;
     height: 300px;
 }
 
 .right {
     background-color: rgb(2, 107, 2);
     float: right;
-    width: 650px;
+    width: 950px;
     height: 300px;
 }
 
