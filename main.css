@@ -119,18 +119,17 @@ h3 {
 
 .grid1 {
     display: flex;
-    width: 200px;
-    height: 100px;
-    padding: 100px;
     text-align: center;
+    width: 500px;
+    height: 300px;
 }
 
-.section-left {
-    background-color: rgb(6, 6, 233);
+.div#left {
+    background-color: blue;
     float: left;
 }
 
-.section-right {
+.div#right {
     background-color: rgb(2, 107, 2);
     float: right;
 }
