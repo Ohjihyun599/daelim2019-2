@@ -119,34 +119,27 @@ h3 {
 
 .grid1 {
     display: flex;
-    width: 200px;
-    height: 100px;
-    padding: 100px;
     text-align: center;
+    width: 1900px;
+    height: 300px;
 }
 
-.section-left {
-    background-color: rgb(6, 6, 233);
+.left {
+    background-color: blue;
     float: left;
-<<<<<<< Updated upstream
-=======
     width: 950px; 
     height: 300px; 
     border: 1px;
     color: rgb(253, 253, 253);
->>>>>>> Stashed changes
 }
 
-.section-right {
+.right {
     background-color: rgb(2, 107, 2);
     float: right;
-<<<<<<< Updated upstream
-=======
     width: 950px; 
     height: 300px; 
     border: 1px;
     color: rgb(253, 253, 253);
->>>>>>> Stashed changes
 }
 
 .grid2 {
