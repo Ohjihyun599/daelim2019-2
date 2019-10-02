@@ -9,9 +9,10 @@ h2 {
 ul {
     width: 800px;
     height: 60px;
-    background: rgb(108, 152, 219);
+    background-color: rgb(108, 152, 219);
     list-style:none;
     padding-top: 15px;
+    font-family: 'Slabo 27px', serif;
 }
 
 ul li {
@@ -109,21 +110,17 @@ h3 {
 
 .sample {
     background-color: rgb(138, 43, 226);
-<<<<<<< Updated upstream
     padding: 10px;
     height: 60%;
-=======
-    padding: 60%;
-    height: 100px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
->>>>>>> Stashed changes
 }
 
 .grid1 {
     display: flex;
     width: 200px;
+    height: 100;
     padding: 100px;
 }
 
@@ -157,7 +154,7 @@ h3 {
 
 .item2 {
     grid-column: 1 / span 2;
-    grid-row: 1;
+    grid-row: 2;
 }
 
 .item3 {
@@ -171,5 +168,8 @@ h3 {
 }
 
 .footer-bg {
+    background-color: rgb(165, 42, 42);
     font-family: 'Slabo 27px', serif;
+    padding: 10px;
+    height: 100px;
 }
