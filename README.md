@@ -14,3 +14,8 @@
 > 2. audio, video 태그 사용하기
 > 3. 유튜브 삽입
 > 4. 테이블 연습
+> 5. Grid 연습
+
+## 2019.10.02
+#### index.html / main.css 생성
+> 1. CSS Grid 
