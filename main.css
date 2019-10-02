@@ -114,7 +114,7 @@ h3 {
 }
 
 .grid1 {
-    float: left;
+    display: flex;
     width: 30px;
     padding: 50px;
 }
@@ -160,4 +160,8 @@ h3 {
 .item10 {
     grid-column: 2 /span 2;
     grid-row: 5;
+}
+
+.footer-bg {
+    font-family: 'Slabo 27px', serif;
 }
