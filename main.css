@@ -109,8 +109,16 @@ h3 {
 
 .sample {
     background-color: rgb(138, 43, 226);
+<<<<<<< Updated upstream
     padding: 10px;
     height: 60%;
+=======
+    padding: 60%;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+>>>>>>> Stashed changes
 }
 
 .grid1 {
