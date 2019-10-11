@@ -41,18 +41,18 @@ h2 {
 
 .ghost-button {
     align-items: center;
-    padding: 20px 60px;
+    padding: 20px;
     margin:  100px 70px;
     border: 3px solid #d9cbb3;
     color: #9d33f3;
     text-align: center; 
-    text-decoration: none;
-    font-size: 30px;
+    font-weight: bold;
 }
 
 .ghost-button:hover {
     background-color:#d9cbb3;
     color:black;
+    font-weight: bold;
 }
 
 ul {
