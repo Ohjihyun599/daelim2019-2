@@ -157,7 +157,12 @@ h3 {
     height: 300px;
 }
 
-.left {
+.section-title {
+    background-color: rgb(87, 87, 88);
+    
+}
+
+.section-left {
     background-color: blue;
     float: left;
     width: 950px; 
@@ -166,7 +171,7 @@ h3 {
     color: rgb(253, 253, 253);
 }
 
-.right {
+.section-right {
     background-color: rgb(2, 107, 2);
     float: right;
     width: 950px; 
