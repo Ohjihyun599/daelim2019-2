@@ -55,7 +55,12 @@ ul li {
 
 ul li a {
     margin-right: 20px;
+<<<<<<< Updated upstream
     font-size: 30px;
+=======
+    font-size: 25px;
+    font-weight: bold;
+>>>>>>> Stashed changes
     color: white;
     text-decoration: none;
 }
