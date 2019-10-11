@@ -6,6 +6,14 @@ h2 {
   margin: 0px;
 }
 
+.fixed-top {
+    position: fixed;
+    top: 0px;
+    right: 0;
+    left: 0px;
+    z-index: 1030;
+}
+
 .full-bg {
     background: url(./images/pier-569314_640.jpg) no-repeat;
     -webkit-background-size: cover;
@@ -59,7 +67,7 @@ h2 {
 
 ul {
     width: 100%;
-    height: 40px;
+    height: 70px;
     background-color: rgb(108, 152, 219);
     list-style:none;
     padding: 15px 10px 8px;
@@ -68,7 +76,6 @@ ul {
 
 ul li {
     float: left;
-    margin-right: 10px;
 }
 
 ul li a {
