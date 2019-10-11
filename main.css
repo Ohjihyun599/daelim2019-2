@@ -39,9 +39,25 @@ h2 {
     color: rgb(255, 244, 180);
 }
 
+.ghost-button {
+    align-items: center;
+    padding: 20px 60px;
+    margin:  100px 70px;
+    border: 3px solid #d9cbb3;
+    color: #9d33f3;
+    text-align: center; 
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.ghost-button:hover {
+    background-color:#d9cbb3;
+    color:black;
+}
+
 ul {
     width: 100%;
-    height: 30px;
+    height: 40px;
     background-color: rgb(108, 152, 219);
     list-style:none;
     padding: 15px 10px 8px;
@@ -55,7 +71,7 @@ ul li {
 
 ul li a {
     margin-right: 20px;
-    font-size: 27px;
+    font-size: 25px;
     font-weight: bold;
     color: white;
     text-decoration: none;
@@ -216,10 +232,11 @@ h3 {
     grid-row: 5;
 }
 
-.footer-bg {
+.aside-bg {
     background-color: rgb(165, 42, 42);
     font-family: 'Slabo 27px', serif;
     padding: 10px;
     height: 100px;
     color: rgb(253, 253, 253);
+    text-align: center;
 }
