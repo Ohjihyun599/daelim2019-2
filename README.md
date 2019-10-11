@@ -1,4 +1,11 @@
 # 오지현 : daelim2019-2 project
+## 2019.10.11
+#### index.html / main.css 생성
+> 1. Fullscren background header
+> 2. 고스트 버튼
+> 3. 메뉴 CSS 적용
+> 4. 서브메뉴 생성
+
 ## 2019.10.02
 #### index.html / main.css 생성
 > 1. CSS Grid
