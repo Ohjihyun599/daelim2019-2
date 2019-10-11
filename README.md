@@ -1,12 +1,11 @@
 # 오지현 : daelim2019-2 project
-## 2019.9.20 
+## 2019.10.02
 #### index.html / main.css 생성
-> 1. 주석 추가
-> 2. 기본구조 삽입
-> 3. css 적용
-> 4. css 초기화 ( v0.1.0 )
-> 5. 메뉴 생성 ( v0.2.0 )
-> 6. 1st article : margin, padding, border test ( v0.3.0 )
+> 1. CSS Grid
+> 2. aside, footer area 작성 (v0.7.0)
+> 3. 오류수정
+> 4. web font(google)적용
+> 5. anchor 내부 이동 적용 (v0.8.0)
 
 ## 2019.9.27
 #### index.html / main.css 생성
@@ -16,6 +15,11 @@
 > 4. 테이블 연습
 > 5. Grid 연습
 
-## 2019.10.02
+## 2019.9.20 
 #### index.html / main.css 생성
-> 1. CSS Grid 
+> 1. 주석 추가
+> 2. 기본구조 삽입
+> 3. css 적용
+> 4. css 초기화 ( v0.1.0 )
+> 5. 메뉴 생성 ( v0.2.0 )
+> 6. 1st article : margin, padding, border test ( v0.3.0 )
