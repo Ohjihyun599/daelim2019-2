@@ -1,4 +1,27 @@
 # 오지현 : daelim2019-2 project
+## 2019.10.11
+#### index.html / main.css 생성
+> 1. Fullscren background header
+> 2. 고스트 버튼
+> 3. 메뉴 CSS 적용
+> 4. 서브메뉴 생성
+
+## 2019.10.02
+#### index.html / main.css 생성
+> 1. CSS Grid
+> 2. aside, footer area 작성 (v0.7.0)
+> 3. 오류수정
+> 4. web font(google)적용
+> 5. anchor 내부 이동 적용 (v0.8.0)
+
+## 2019.9.27
+#### index.html / main.css 생성
+> 1. image 삽입
+> 2. audio, video 태그 사용하기
+> 3. 유튜브 삽입
+> 4. 테이블 연습
+> 5. Grid 연습
+
 ## 2019.9.20 
 #### index.html / main.css 생성
 > 1. 주석 추가
