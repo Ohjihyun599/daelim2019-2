@@ -1,5 +1,5 @@
 # 오지현 : daelim2019-2 project
-## 2019.10.11
+## 2019.10.23
 #### dorn_fault, DOMBasic, DOMTime.html 생성
 > 1. 배경색 변경
 > 2. 글자색 변경
