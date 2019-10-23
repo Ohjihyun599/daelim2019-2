@@ -15,7 +15,7 @@ h2 {
 }
 
 .full-bg {
-    background: url(./images/pier-569314_640.jpg) no-repeat;
+    background: url(./images/pier-569314_640.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
