@@ -1,5 +1,12 @@
 # 오지현 : daelim2019-2 project
 ## 2019.10.11
+#### dorn_fault, DOMBasic, DOMTime.html 생성
+> 1. 배경색 변경
+> 2. 글자색 변경
+> 3. 글자 크기 조절
+> 4. 날짜, 시간 삽입
+
+## 2019.10.11
 #### index.html / main.css 생성
 > 1. Fullscren background header
 > 2. 고스트 버튼
