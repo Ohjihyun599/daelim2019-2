@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>vegas</title>
+  <link rel="stylesheet" href="./vegas.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vegas/2.4.4/vegas.min.js"></script>
+  <script>
+    $(function () {
+      $('body').vegas({
+      slides: [
+        {   src: './images/milk-4598823_1920.jpg' },
+        {   src: './images/cake.jpg',
+            video: {
+                src: [
+                  './videos/Coffee - 27230.mp4',
+                  './videos/Coffee - 27230.webm',
+                  './videos/Coffee - 27230.ogv'
+          ],
+                loop: false,
+                 mute: true
+              }
+          }
+      ]
+  });
+});
+  </script>
+</head>
+<body>
+
+</body>
+</html>
