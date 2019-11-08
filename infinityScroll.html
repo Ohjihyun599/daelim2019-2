@@ -8,9 +8,11 @@
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <script>
     $(document).ready(function () {
+      var count = 1;
       var appendDocument = function () {
         for (var i = 0; i < 20; i++) {
-          $('<h1>Infinity Scroll</h1>').appendTo('body');
+          $('<h1>Infinity Scroll 무한 스크롤 '+ count +'</h1>').appendTo('body');
+          count++;
         }
       };
       appendDocument();
